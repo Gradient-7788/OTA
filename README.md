@@ -59,7 +59,7 @@ Compensation: C2 = 6 pF (Miller), C1 = 1 pF (load)
 - **Output Voltage**: ≈1.13V (confirming gain ≈ 2)
 
 ## ✅ AC Response
-![AC Response Plot](./image3.png)
+![AC Response Plot](./DC_plots_2_230102115.png)
 - **Low-Frequency Gain**: 6 dB (Closed-loop gain ≈ 2)
 - **Bandwidth (-3dB)**: 49 MHz
 - **Phase Margin**: ~75°
