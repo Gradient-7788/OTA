@@ -53,7 +53,7 @@ Compensation: C2 = 6 pF (Miller), C1 = 1 pF (load)
   M6: Output current source
   ```
   ## ✅ Transient Response
-![Transient Response Plot](./image2.png)
+![Transient Response Plot](./Step_Response_230102115.png)
 - **Input Signal**: 0.2V step (PULSE 0→0.2V)
 - **Settling Time**: 12-15 ns
 - **Output Voltage**: ≈1.13V (confirming gain ≈ 2)
