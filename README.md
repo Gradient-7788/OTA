@@ -1,6 +1,6 @@
 # 📘 Two-Stage OTA Design (TSMC 180nm)
 
-![OTA Schematic](./image1.png)  
+![OTA Schematic](./Schematic.png)  
 *Figure 1: Two-Stage OTA Schematic*
 
 ## 🧠 Objective
